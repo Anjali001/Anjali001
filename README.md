@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 📫 Reach me at : **palanjali007@gmail.com**
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=anjali001&show_icons=true&theme=radical" alt="anjali001" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjali001&layout=compact" alt="anjali001" /></p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
