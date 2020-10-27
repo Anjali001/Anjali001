@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 📝 I regulary write articles on [https://medium.com/@palanjali007](https://medium.com/@palanjali007)
 
-- 📫 Reach me at : **palanjali007@gmail.com**
+- 📫 Reach me at : **palanjali007@gmail.com** or send a message on LinkedIn.
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=anjali001&show_icons=true&theme=radical" alt="anjali001" /></p>
 
