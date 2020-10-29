@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Anjali</h1>
-<h3 align="center">A passionate data science enthusiast who believes that the power of data will revolutionize the world. </h3>
+<h3 align="center">A passionate data science enthusiast who believes that the power of data will revolutionize the world..... </h3>
 
 - 📝 I regulary write articles on [https://medium.com/@palanjali007](https://medium.com/@palanjali007)
 
