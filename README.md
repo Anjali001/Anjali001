@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 💬 Visit my website : [https://anjali001.github.io/](https://anjali001.github.io/)
 - 📝 I regulary write articles on [https://greywasp.medium.com/](https://greywasp.medium.com/)
 
-- 📫 Reach me at : **palanjali007@gmail.com** or send a message on LinkedIn.
+- 📫 Reach me at : **anjalipallsr@gmail.com** or send a message on LinkedIn.
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=anjali001&show_icons=true&theme=radical" alt="anjali001" /></p>
 
