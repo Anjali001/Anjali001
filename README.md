@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h3 align="center">I'm an aspiring data scientist who wishes to solve problems in the world by means of data </h3>
 
 - 💬 Visit my website : [https://anjali001.github.io/](https://anjali001.github.io/)
-- 📝 I regulary write articles on [https://medium.com/@palanjali007](https://medium.com/@palanjali007)
+- 📝 I regulary write articles on [https://greywasp.medium.com/](https://greywasp.medium.com/)
 
 - 📫 Reach me at : **palanjali007@gmail.com** or send a message on LinkedIn.
 
