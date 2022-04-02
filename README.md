@@ -31,5 +31,5 @@ Here are some ideas to get you started:
 
 <p align="left">
 <h3 align="left">Connect with me:-</h3>
-<a href="http://www.linkedin.com/in/anjali-pal-24246214a" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="http://www.linkedin.com/in/anjali-pal-24246214a" height="30" width="40" /></a>
+<a href="http://www.linkedin.com/in/anjali-pal-24246214a" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="http://www.linkedin.com/in/anjali-pal-24246214a" height="60" width="80" /></a>
 </p>
