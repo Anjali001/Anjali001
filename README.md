@@ -86,8 +86,12 @@ Here are some ideas to get you started:
 
 
 ## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+<!-- BLOG-POST-LIST:START -->
+- [Applying for Data Science Masters in the UK?](https://medium.com/nerd-for-tech/applying-for-data-science-masters-in-the-uk-76f830bc941b?source=rss-f554db6ddaf1------2)
+- [Hands-On Time-Series Forecasting in Python](https://medium.com/nerd-for-tech/hands-on-time-series-forecasting-in-python-33356389865d?source=rss-f554db6ddaf1------2)
+- [Master Python for Data Science in 30 Days](https://medium.com/analytics-vidhya/master-python-for-data-science-in-30-days-66e7ec6132a6?source=rss-f554db6ddaf1------2)
+- [Decision Trees using Sklearn](https://medium.com/analytics-vidhya/decision-trees-using-sklearn-baabb510c54a?source=rss-f554db6ddaf1------2)
+- [Hacktoberfest: An opportunity for Data Science Beginners](https://medium.com/nerd-for-tech/hacktoberfest-an-opportunity-for-data-science-beginners-1c51c57e4e5a?source=rss-f554db6ddaf1------2)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
