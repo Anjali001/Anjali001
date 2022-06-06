@@ -1,6 +1,5 @@
 <!--
 **Anjali001/Anjali001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<iframe src="https://giphy.com/embed/nL35pJUKAxi6loUu7u" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Giflytics-giflytics-nL35pJUKAxi6loUu7u">via GIPHY</a></p>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,6 +12,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anjali001/Anjali001/master/giphy.gif"]
+ </p>
+
 <h1 align="center">Hi 👋, I'm Anjali</h1>
 <h3 align="center">I'm an aspiring data scientist who wishes to solve problems in the world by means of data </h3>
 
@@ -22,7 +25,10 @@ Here are some ideas to get you started:
 - 📫 Reach me at : **anjalipallsr@gmail.com** or send a message on LinkedIn.
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=anjali001&show_icons=true&theme=radical" alt="anjali001" /></p>
+<iframe src="https://giphy.com/embed/JWuBH9rCO2uZuHBFpm" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Giflytics-JWuBH9rCO2uZuHBFpm">via GIPHY</a></p>
 
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Anjali001&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
 <h3 align="left">Languages and Tools:-</h3>
@@ -33,3 +39,69 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:-</h3>
 <a href="http://www.linkedin.com/in/anjali-pal-24246214a" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="http://www.linkedin.com/in/anjali-pal-24246214a" height="60" width="80" /></a>
 </p>
+
+
+
+
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" style="width: 100%" />  
+
+### <div align="center">I'm Anjali, a Data Science and Machine Learning MSc student at University College London</div>  
+  
+
+- 🔭 I’m currently working with Ocado Technology London for developing deep learning models for demand forecasting as an Intern  
+  
+
+- 🌱 I’m currently learning front end dev, database management and model deployment.  
+  
+
+- ❓ Ask me about anything related to Data Science and related technologies  
+  
+
+- ⚡ Fun fact: I once shot an arrow on my archery coach (obviously by mistake)  
+  
+
+<br/>  
+
+## Connect with me  
+<div align="center">
+<a href="https://github.com/Anjali001" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/anjali001" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://medium.com/@greywasp" target="_blank">
+<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Anjali001&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+
+
+## Recent Blog Posts  
+<!-- BLOG-POST-LIST:START -->  
+If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+<!-- BLOG-POST-LIST:END -->  
+
+<br/>  
+
+  
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Anjali001&&style=flat-square" align="center" />
+</div>  
+  
+
+<br/>  
+
+
+<br />
