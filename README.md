@@ -1,7 +1,7 @@
 <!--
 **Anjali001/Anjali001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=anjali001.anjali001&color=00cf00)
+![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Anjali001)
 
 Here are some ideas to get you started:
 
