@@ -1,8 +1,6 @@
 <!--
 **Anjali001/Anjali001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Anjali001)
-
+<iframe src="https://giphy.com/embed/nL35pJUKAxi6loUu7u" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Giflytics-giflytics-nL35pJUKAxi6loUu7u">via GIPHY</a></p>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
