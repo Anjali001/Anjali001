@@ -13,10 +13,13 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anjali001/Anjali001/master/giphy.gif"]
+  <img src="https://raw.githubusercontent.com/Anjali001/Anjali001/master/giphy.gif" width="40%"]
  </p>
+  
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" style="width: 20%" />  
+  
+  
 
-<h1 align="center">Hi 👋, I'm Anjali</h1>
 <h3 align="center">I'm an aspiring data scientist who wishes to solve problems in the world by means of data </h3>
 
 - 💬 Visit my website : [https://anjali001.github.io/](https://anjali001.github.io/)
@@ -43,7 +46,6 @@ Here are some ideas to get you started:
 
 
 
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" style="width: 100%" />  
 
 ### <div align="center">I'm Anjali, a Data Science and Machine Learning MSc student at University College London</div>  
   
