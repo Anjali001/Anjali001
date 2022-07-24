@@ -16,7 +16,7 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/Anjali001/Anjali001/master/giphy.gif" width="40%">
 
   
-<img src="https://raw.githubusercontent.com/Anjali001/Anjali001/master/my_gif.gif" align="left" style="width: 20%" >  
+<img src="https://raw.githubusercontent.com/Anjali001/Anjali001/master/my_gif.gif" align="left" style="width: 70%" >  
   
    </p>
    
