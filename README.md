@@ -13,12 +13,8 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anjali001/Anjali001/master/giphy.gif" width="40%">
-
-  
-<img src="https://raw.githubusercontent.com/Anjali001/Anjali001/master/my_gif.gif" align="left" style="width: 70%" >  
-  
-   </p>
+<img src="https://raw.githubusercontent.com/Anjali001/Anjali001/master/giphy.gif" width="40%"> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/Anjali001/Anjali001/master/my_gif.gif" align="left" style="width: 70%" >  </p>
    
   
  ### <div align="center">I'm Anjali, a Data Science and Machine Learning MSc student at University College London</div>  
