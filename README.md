@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working with Ocado Technology London for developing deep learning models for demand forecasting as an Intern  
   
 
-- 🌱 I’m currently learning front end dev, database management and model deployment.  
+- 🌱 I’m currently learning how to use cloud services for deploying ML models (GCP - Vertex AI) .  
   
 
 - ❓ Ask me about anything related to Data Science and related technologies  
