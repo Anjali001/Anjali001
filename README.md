@@ -20,7 +20,7 @@ Here are some ideas to get you started:
  ### <div align="center">I'm Anjali, a Data Science and Machine Learning MSc student at University College London</div>  
   
 
-- 🔭 I’m currently working with Ocado Technology London for developing deep learning models for demand forecasting as an Intern  
+- 🔭 Recently finished my masters thesis with Ocado Technology London for developing deep learning models for demand forecasting as a Machine Learning Engineer
   
 
 - 🌱 I’m currently learning how to use cloud services for deploying ML models (GCP - Vertex AI) .  
