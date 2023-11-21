@@ -1,8 +1,7 @@
 <!--
 **Anjali001/Anjali001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -18,32 +17,28 @@ Here are some ideas to get you started:
    
   
  ### <div align="center">I'm Anjali, a Data Science and Machine Learning MSc student at University College London</div>  
+
+🧠 Working at Hastings Direct, London, as a Data Scientist in Data Science and Customer Science Team
+
+  
+🔭 Worked with Ocado Technology, London, for developing deep learning models for demand forecasting as a Machine Learning Engineer for my Masters Thesis (UCL)
+
+
+🌱 I’m currently learning how to use cloud services for deploying ML models and Gen AI
   
 
-- 🔭 Recently finished my masters thesis with Ocado Technology London for developing deep learning models for demand forecasting as a Machine Learning Engineer
+❓ Ask me about anything related to Data Science and related technologies  
   
 
-- 🌱 I’m currently learning how to use cloud services for deploying ML models (GCP - Vertex AI) .  
-  
-
-- ❓ Ask me about anything related to Data Science and related technologies  
-  
-
-- ⚡ Fun fact: I once shot an arrow on my archery coach (obviously by mistake)  
+⚡ Fun fact: I once shot an arrow on my archery coach (obviously by mistake)  
 
 
-- 💬 Visit my website : [https://anjali001.github.io/](https://anjali001.github.io/)
+💬 Visit my website : [https://anjali001.github.io/](https://anjali001.github.io/)
 
 
-- 📝 I regulary write articles on [https://greywasp.medium.com/](https://greywasp.medium.com/)
+📝 I write articles on [https://greywasp.medium.com/](https://greywasp.medium.com/)
 
-- 📫 Reach me at : **anjalipallsr@gmail.com** or send a message on LinkedIn.
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=anjali001&show_icons=true&theme=radical" alt="anjali001" />
-    
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Anjali001&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
-</p>
+ 📫 Reach me at : **anjalipallsr@gmail.com** or send a message on LinkedIn.
 
 
 ## Languages and Tools
