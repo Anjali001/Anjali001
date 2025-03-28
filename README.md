@@ -18,13 +18,13 @@ Here are some ideas to get you started:
   
  ### <div align="center">I'm Anjali, a Data Science and Machine Learning MSc student at University College London</div>  
 
-🧠 Working at Hastings Direct, London, as a Data Scientist in Data Science and Customer Science Team
+🧠 Working at Hastings Direct, London, as a Data Scientist in Advanced Data Science and Engineering Team
 
   
 🔭 Worked with Ocado Technology, London, for developing deep learning models for demand forecasting as a Machine Learning Engineer for my Masters Thesis (UCL)
 
 
-🌱 I’m currently learning how to use cloud services for deploying ML models and Gen AI
+🌱 I’m currently learning use of Python Polars
   
 
 ❓ Ask me about anything related to Data Science and related technologies  
