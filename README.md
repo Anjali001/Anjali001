@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <p align="center"> <img src="https://raw.githubusercontent.com/Anjali001/Anjali001/master/my_gif.gif" align="center" style="width: 70%" >  </p>
    
   
- ### <div align="center">I'm Anjali, a Data Scientist with an MSc in Data Science and Machine Learning, and a BSc in Statistics./div>  
+ ### <div align="center">I'm Anjali, a Data Scientist with an MSc in Data Science and Machine Learning, and a BSc in Statistics. </div>  
 
 🧠 Working at Hastings Direct, London, as a Data Scientist in Advanced Data Science and Engineering Team
 
