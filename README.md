@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 <p align="center"> <img src="https://raw.githubusercontent.com/Anjali001/Anjali001/master/my_gif.gif" align="center" style="width: 70%" >  </p>
    
   
- ### <div align="center">I'm Anjali, a Data Science and Machine Learning MSc student at University College London</div>  
+ ### <div align="center">I'm Anjali, a Data Scientist with an MSc in Data Science and Machine Learning, and a BSc in Statistics./div>  
 
 🧠 Working at Hastings Direct, London, as a Data Scientist in Advanced Data Science and Engineering Team
 
   
-🔭 Worked with Ocado Technology, London, for developing deep learning models for demand forecasting as a Machine Learning Engineer for my Masters Thesis (UCL)
+🔭 Worked with Ocado Technology, London, for developing deep learning models for demand forecasting as a Machine Learning Engineer for my Masters Thesis at University College London (UCL)
 
 
 🌱 I’m currently learning use of Python Polars
