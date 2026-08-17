@@ -18,19 +18,12 @@ Here are some ideas to get you started:
   
  ### <div align="center">I'm Anjali, a Data Scientist with an MSc in Data Science and Machine Learning, and a BSc in Statistics. </div>  
 
-🧠 Working at Hastings Direct, London, as a Data Scientist in Advanced Data Science and Engineering Team
-
-  
+🧠 Working at Zego Insurance, as a Data Scientist in Market Modeling Team with Pricing and UW
+🌱 Worked at Hastings Direct, London, as a Data Scientist in Pricing (Market Modeling and ML Ops Team)
 🔭 Worked with Ocado Technology, London, for developing deep learning models for demand forecasting as a Machine Learning Engineer for my Masters Thesis at University College London (UCL)
 
 
-🌱 I’m currently learning use of Python Polars
-  
-
 ❓ Ask me about anything related to Data Science and related technologies  
-  
-
-⚡ Fun fact: I once shot an arrow on my archery coach (obviously by mistake)  
 
 
 💬 Visit my website : [https://anjali001.github.io/](https://anjali001.github.io/)
